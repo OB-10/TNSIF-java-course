@@ -19,7 +19,8 @@ public class Executor {
 
 	}
 
-}package com.tnsif.dayfor.secondpackage;
+} 
+package com.tnsif.dayfor.secondpackage;
 
 public class Executor {
 
