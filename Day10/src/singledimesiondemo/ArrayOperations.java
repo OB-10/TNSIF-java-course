@@ -1,4 +1,4 @@
-package com.tnsif.dayten.singledimesiondemo;
+package singledimesiondemo;
 
 class ArrayOperations
 {

@@ -20,8 +20,6 @@ import com.tnsif.dayfor.firstpackage.Base;
 	}
 
 } 
-package com.tnsif.dayfor.secondpackage;
 
-public class Executor {
 
-}
+

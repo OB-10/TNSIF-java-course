@@ -1,4 +1,4 @@
-package com.tnsif.association.hasa;
+package association;
 
 public class Person {
 
